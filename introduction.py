@@ -1,0 +1,6 @@
+print("Python Assignment 1: My Introduction using print()")
+print("        MY INTRO COMPONENT        ")
+print(" Name: Umm-e-hani")
+print(" Age: 16")
+print(" City: Karachi")
+print(" Course: FS Foundations (JS & Py)")
